@@ -1,11 +1,11 @@
-## Luis David Trejos Rojas (@soydegurime)  
+## Luis David Trejos Rojas (@luisdavidtrejosrojas)  
   
 
 <div align="center">
-<a href="https://github.com/soydegurime" target="_blank">
+<a href="https://github.com/luisdavidtrejosrojas" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/soydegurime" target="_blank">
+<a href="https://dev.to/luisdavidtrejosrojas" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ldtr-col" target="_blank">
@@ -41,17 +41,17 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soydegurime&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=luisdavidtrejosrojas&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soydegurime&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavidtrejosrojas&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=soydegurime&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=luisdavidtrejosrojas&&style=flat-square)  
 
 <br />
 
